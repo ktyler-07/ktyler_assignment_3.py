@@ -1,16 +1,15 @@
 # ktyler_assignment_3.py
 Assignment 3
-git add ktyler_assignment_3.py 
-git commit -m "Pass Test Case 1: Initial game setup with required variables"
-git add ktyler_assignment_3.py 
-git commit -m "Pass Test Case 2: Course planning with if/elif/else and comparison operators"
-git add ktyler_assignment_3.py 
-git commit -m "Pass Test Case 3: Study strategy with membership and logical operators"
-git add ktyler_assignment_3.py 
-git commit -m "Pass Test Case 4: Complete assessment with all concepts and multiple endings" 
-git add README.md 
-git commit -m "Add professional documentation"
-# AI helped me understand what step 2 was asking for
+git add ktyler_assignment_3.py
+git commit -m "Initial game setup: Define required variables and player input"  # Test Case 1
+git add ktyler_assignment_3.py
+git commit -m "Implement course planning logic using if/elif/else and comparison operators"  # Test Case 2
+git add ktyler_assignment_3.py
+git commit -m "Add study strategy logic using membership and logical operators"  # Test Case 3
+git add ktyler_assignment_3.py
+git commit -m "Complete final assessment logic with multiple outcomes and integrate all concepts"  # Test Case 4
+git add README.md
+git commit -m "Add documentation and usage instructions for game"
 # Prompt: "Help me understand decision 2"
 # AI explained what is needed
 # AI also helped clarify membership operator syntax for a validation
